@@ -1,9 +1,10 @@
 {
-  "dependencies": {
+   "dependencies": {
     "eslint": "^8.29.0",
     "nodejs": "^0.0.0"
   },
   "name": "namegenerator",
+  "type": "module", 
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
@@ -14,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/insobl/NameGenerator.git"
   },
-  "author": "",
+  "author": "insobl",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/insobl/NameGenerator/issues"
