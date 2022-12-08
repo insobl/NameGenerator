@@ -1,24 +1,25 @@
 {
    "dependencies": {
-    "eslint": "^8.29.0",
-    "nodejs": "^0.0.0"
-  },
-  "name": "namegenerator",
-  "type": "module", 
-  "description": "",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/insobl/NameGenerator.git"
-  },
-  "author": "insobl",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/insobl/NameGenerator/issues"
-  },
-  "homepage": "https://github.com/insobl/NameGenerator#readme"
+      "eslint": "^8.29.0",
+      "eslint-config-airbnb": "^19.0.4",
+      "nodejs": "^0.0.0"
+   },
+   "name": "namegenerator",
+   "type": "module",
+   "description": "",
+   "version": "1.0.0",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/insobl/NameGenerator.git"
+   },
+   "author": "insobl",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/insobl/NameGenerator/issues"
+   },
+   "homepage": "https://github.com/insobl/NameGenerator#readme"
 }
