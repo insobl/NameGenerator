@@ -1,1 +1,2 @@
 # NameGenerator
+Command: GenerateName
